@@ -18,24 +18,24 @@ Admin:
  - Movie management
  - View newsletter subscribers
 
-Project Structure
+Project Structure:
 imbd/
- ├── index.php
- ├── movie.php
- ├── booking.php
- ├── login.php
- ├── register.php
- ├── logout.php
- ├── db.php
- ├── subscribe.php
- ├── admin_dashboard.php
- ├── admin_newsletter.php
- ├── style.css
- ├── images/
- │     ├── inception.png
- │     ├── interstellar.png
- │     └── ...more posters
- └── README.md
+ ─ index.php
+ ─ movie.php
+ ─ booking.php
+ ─ login.php
+ ─ register.php
+ ─ logout.php
+ ─ db.php
+ ─ subscribe.php
+ ─ admin_dashboard.php
+ ─ admin_newsletter.php
+ ─ style.css
+ ─ images/ :
+      ─ inception.png
+      ─ interstellar.png
+      ─ ...more posters
+ ─ README.md
 
 ##Technologies Used
 - PHP 8
