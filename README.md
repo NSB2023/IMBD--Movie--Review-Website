@@ -3,8 +3,8 @@ This is a dynamic Movie Review and Ticket Booking web application built using PH
 Users can browse movies, view details, post reviews, watch trailers, subscribe to newsletters and book movie tickets. 
 Admin users can manage movies and view newsletter subscribers.
 
-# Features
-# User:
+## Features
+User:
  -User registration & login system
  -Browse movies with posters, genres and descriptions
  -Auto-sliding featured movie banner
@@ -13,12 +13,12 @@ Admin users can manage movies and view newsletter subscribers.
  -Ticket booking (date, time, seat selection)
  -Newsletter subscription
 
-## Admin:
- *Admin login
- *Movie management
- *View newsletter subscribers
+Admin:
+ - Admin login
+ - Movie management
+ - View newsletter subscribers
 
-Project Structure
+##Project Structure
 imbd/
  ├── index.php
  ├── movie.php
@@ -37,14 +37,14 @@ imbd/
  │     └── ...more posters
  └── README.md
 
-Technologies Used
+##Technologies Used
 - PHP 8
 - MySQL / phpMyAdmin
 - MAMP (macOS)
 - HTML5, CSS3
 - JavaScript (for slider + trailer modal)
 
-# How to Run This Project (macOS + MAMP)
+## How to Run This Project (macOS + MAMP)
 1️) Install MAMP
     Download & install from: https://www.mamp.info/en/
 2️) Move project into htdocs
