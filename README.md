@@ -45,20 +45,20 @@ imbd/
 - JavaScript (for slider + trailer modal)
 
 ## How to Run This Project (macOS + MAMP)
-1️) Install MAMP
+   -Install MAMP
     Download & install from: https://www.mamp.info/en/
-2️) Move project into htdocs
+   -Move project into htdocs
    Place your project folder inside:
         /Applications/MAMP/htdocs/imbd
-3️) Start Servers
-Open MAMP → Start Servers (Ensure Apache & MySQL turn green)
-4️) Create the database
+   -Start Servers
+       Open MAMP → Start Servers (Ensure Apache & MySQL turn green)
+   -Create the database
        1. Go to: http://localhost/phpmyadmin
        2. Create a database named:    imbd_db
        3. Import your SQL file or run the table-creation queries.
-5️) Run the website
+   -Run the website
        Open in browser:
        http://localhost:8888/imbd/
-6️) Login / Register
+   -Login / Register
        - Register a new user
        - For admin access, set the user’s role = admin in phpMyAdmin manually
