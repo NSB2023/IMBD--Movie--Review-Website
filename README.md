@@ -14,9 +14,9 @@ Admin users can manage movies and view newsletter subscribers.
  -Newsletter subscription
 
 ## Admin:
- -Admin login
- -Movie management
- -View newsletter subscribers
+ *Admin login
+ *Movie management
+ *View newsletter subscribers
 
 Project Structure
 imbd/
