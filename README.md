@@ -18,7 +18,7 @@ Admin:
  - Movie management
  - View newsletter subscribers
 
-##Project Structure
+Project Structure
 imbd/
  ├── index.php
  ├── movie.php
