@@ -13,7 +13,7 @@ Admin users can manage movies and view newsletter subscribers.
  -Ticket booking (date, time, seat selection)
  -Newsletter subscription
 
-# Admin:
+## Admin:
  -Admin login
  -Movie management
  -View newsletter subscribers
